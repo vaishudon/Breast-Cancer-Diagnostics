@@ -1,4 +1,4 @@
-# CSE-143-Project
+# Breast Cancer Diagnostics (CSE 143 Project)
 
 ## **How to Run**
 In order to run BCDn, you will need a variety of python libraries for the machine learning and data retrieval. Imports include… 
